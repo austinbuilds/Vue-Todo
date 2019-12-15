@@ -1,6 +1,6 @@
 # :clipboard: Vue Todo
 
-Vue to-do list application demonstrating and understanding of Vue including setup using Vue CLI, components, data, events, directives, API integration, and routing.
+Vue to-do list application setup using Vue CLI and demonstrating an understanding of components, data, events, directives, API integration, and routing.
 
 ## :floppy_disk: Install
 
@@ -11,7 +11,7 @@ Dependencies:
 - uuid
 - axios
 
-Recommeneded:
+Recommended:
 
 - @vue/cli
 
