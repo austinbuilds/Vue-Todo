@@ -1,24 +1,33 @@
-# project
+# :clipboard: Vue Todo
 
-## Project setup
-```
-npm install
-```
+Vue to-do list application demonstrating and understanding of Vue including setup using Vue CLI, components, data, events, directives, API integration, and routing.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## :floppy_disk: Install
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Dependencies:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- @vue/cli
+- vue-router
+- uuid
+- axios
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Recommeneded:
+
+- @vue/cli
+
+Run:
+
+- npm run serve
+
+## :computer: Technologies Demonstrated
+
+- HTML
+- CSS
+- JavaScript
+- Vue
+- Vue Router
+- API
+
+## :man_technologist: Author
+
+- **Austin** - [austinbuilds](https://github.com/austinbuilds)
